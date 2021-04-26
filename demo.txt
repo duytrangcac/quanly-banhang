@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file demo 
+=======
+file demo để test
+>>>>>>> efd41d2761874cdc0bb6c13cd810d5775a5d7b89
