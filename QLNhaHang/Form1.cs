@@ -16,5 +16,15 @@ namespace QLNhaHang
         {
             InitializeComponent();
         }
+
+        private void tabPage5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox4_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
